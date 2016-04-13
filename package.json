@@ -19,5 +19,8 @@
     "webpack"
   ],
   "bugs": "https://github.com/highcharts/highcharts/issues",
-  "license": "https://www.highcharts.com/license"
+  "license": "https://www.highcharts.com/license",
+  "devDependencies": {
+    "grunt-contrib-uglify": "^1.0.1"
+  }
 }
